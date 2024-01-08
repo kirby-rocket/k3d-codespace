@@ -5,7 +5,7 @@ A Kirby Rocket K3D Playground to practice Kubernetes skills.
 
 To launch the playground use the button below:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kirby-rocket/k3d-codespace?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=740106147&skip_quickstart=true)
 
 ## Instructions
 
