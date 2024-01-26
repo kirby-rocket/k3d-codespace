@@ -1,7 +1,7 @@
 # Overview
 A Kirby Rocket K3D Playground to practice Kubernetes skills.
 
-## PlayGround 
+## PlayGround for Kuberentes
 
 To launch the playground use the button below:
 
